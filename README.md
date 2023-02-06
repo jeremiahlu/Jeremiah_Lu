@@ -5,7 +5,7 @@ I'm a Full Stack Software Engineer, comfortable in working in both Javascript an
 - :smile: Pronouns: He/Him
 - :dart: 2023 Goals: Learn Swift and TypeScript
 - ⚡ I'm currently grinding leetcode
-- :muscle: Always hungry, metaphorically and physically. I go after what I want and don't let anything stop me, not even dairy
+- :muscle: Always hungry, literally and metaphorically. I go after what I want and don't let anything stop me, not even dairy
 - :moneybag: Interests: Day trading, automation, weight lifting, cooking
 - 📫 Connect with me:
 <a href="mailto:jeremiahlu09@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jeremiahlu09@gmail.com"/></a><a href="https://www.linkedin.com/in/jeremiah-lu/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiah-lu/" alt="jeremiah-lu"/></a>
