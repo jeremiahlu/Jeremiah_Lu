@@ -31,10 +31,6 @@ I'm a Full Stack Software Engineer, comfortable in working in both Javascript an
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-## :headphones: Spotify Playing
-
-[![2000's R&B](https://img.shields.io/badge/R&B-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![Reggaeton](https://img.shields.io/badge/Reggaeton-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![Alternative Rock](https://img.shields.io/badge/Alternative%20Rock-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://spotify-now-playing-jeremiahlu.vercel.app/api/spotify)]
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 
