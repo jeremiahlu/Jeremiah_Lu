@@ -3,8 +3,8 @@
 I'm a Full Stack Software Engineer, comfortable in working in both Javascript and Python frameworks. Fueled by coffee, pizza and self-improvement, I am on a mission to sharpen my skills in everything I do. Feel
 
 - :smile: Pronouns: He/Him
-- :dart: 2023 Goals: Learn Swift and TypeScript
-- ⚡ I'm currently grinding leetcode
+- :dart: 2024 Goals: Learn Swift and TypeScript
+- ⚡ I'm currently grinding leetcode and working on personal projects
 - :muscle: Always hungry, literally and metaphorically. I go after what I want and don't let anything stop me, not even dairy
 - :moneybag: Interests: Day trading, automation, weight lifting, cooking
 - 📫 Connect with me:
